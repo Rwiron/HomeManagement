@@ -55,7 +55,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-Wiron - email@example.com
+Wiron - ruzindanawiron@gmail.com
 
 Project Link: [https://github.com/Wiron/home-management-system](https://github.com/Wiron/home-management-system)
 
